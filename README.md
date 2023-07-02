@@ -80,7 +80,7 @@ Database Servers · Software Development · Entity Framework (EF) Core · Entity
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=engr-mdsajal&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-mdsajal&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mdsajalcse&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalcse&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ## ⚒ This Week I Spent My Time On
 <!--START_SECTION:waka-->
@@ -98,7 +98,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center"><a align="left" href="https://github.com/engr-mdsajal/Software-Engineering-Roadmap" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=engr-mdsajal&repo=Software-Engineering-Roadmap&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/engr-mdsajal/Railsheba" title="RailSheba"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=engr-mdsajal&repo=RailSheba&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/Software-Engineering-Roadmap" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=Software-Engineering-Roadmap&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/Railsheba" title="RailSheba"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=RailSheba&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center"><a align="left" href="https://github.com/engr-mdsajal/Explore-JavaScript" title="JavaScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=engr-mdsajal&repo=Explore-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/engr-mdsajal/C-Programming-Math-Functions" title="C-Programming-Math-Functions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=engr-mdsajal&repo=C-Programming-Math-Functions&theme=react&border_color=61dafb&border_radius=10"></a>
