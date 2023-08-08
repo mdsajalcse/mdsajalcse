@@ -29,7 +29,7 @@ Database Servers · Software Development · Entity Framework (EF) Core · Entity
 ## 📫 Reach Me At 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mdsajal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-sajal/)](https://www.linkedin.com/in/md-sajal/)
-[![Twitter Badge](https://img.shields.io/badge/-mdsajal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/engr_mdsajal/)](https://www.twitter.com/engr_mdsajal/)
+[![Twitter Badge](https://img.shields.io/badge/-mdsajal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mdsajal_/)](https://twitter.com/mdsajal_/)
 [![Behance Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/engr-mdsajal/)](https://www.behance.net/engr-mdsajal/)
 [![Instagram Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/engr.mdsajal/)](https://www.instagram.com/engr.mdsajal/)
 [![Facebook Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/engr.md.sajal/)](https://www.facebook.com/engr.md.sajal/)
