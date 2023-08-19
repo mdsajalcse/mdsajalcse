@@ -38,7 +38,7 @@ Database Servers · Software Development · Entity Framework (EF) Core · Entity
 [![Dribbble Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/mdsajal/)](https://dribbble.com/mdsajal/)
 [![Blogger Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=blogger&logoColor=white&link=https://md-sajal.blogspot.com//)](https://md-sajal.blogspot.com/)
 [![Stackoverflow Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/12133867/md-sajal/)](https://stackoverflow.com/users/12133867/md-sajal/)
-[![Flickr Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=flickr&logoColor=white&link=https://www.flickr.com/photos/10471467@N03/)](https://www.flickr.com/photos/10471467@N03/)
+[![Flickr Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=flickr&logoColor=white&link=https:https://www.flickr.com/photos/mdsajal/)](https://www.flickr.com/photos/mdsajal/)
 [![Gmail Badge](https://img.shields.io/badge/-mdsajal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdsajalcse@gmail.com)](mailto:mdsajalcse@gmail.com)
 
 ## ⚡ Technologies
