@@ -20,7 +20,7 @@ Database Servers · Software Development · Entity Framework (EF) Core · Entity
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://i.gifer.com/3EqX.gif" />
    </p>
    
    
