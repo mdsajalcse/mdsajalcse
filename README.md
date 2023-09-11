@@ -13,16 +13,6 @@
 
 Skills-
 Database Servers · Software Development · Entity Framework (EF) Core · Entity Framework · Teamwork · Application Programming Interfaces (API) · Back-End Web Development · Model-View-Controller (MVC) · Databases · Front-End Development · Full-Stack Development · MySQL · Web Applications · SQL Database · ASP.NET · Object-Oriented Programming (OOP) · AngularJS · Angular · Node.js · C (Programming Language) · .NET Core · Visual Studio · .NET Framework · ASP.NET MVC · ASP.NET Core · JavaScript · Blazor · SQL
-
-## ⚡ What I Do
-<div style="padding-top:52.522%;position:relative;"><iframe src="https://gifer.com/embed/3EqX" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-
-<br />
-
-<p align="center">
-   <img src="https://i.gifer.com/3EqX.gif" />
-   </p>
-   
    
 <br />
 
