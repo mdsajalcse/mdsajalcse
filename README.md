@@ -12,9 +12,8 @@
 "Hello, I’m Md. Sajal. I’m a Professional Web Designer & Developer with 5 Years of Experience in this Sector. I'm an Expert in HTML, CSS, Bootstrap, JavaScript, jQuery, React, Angular, C#, SQL Server, Asp.net, WordPress CMS, Shopify & More. I've also nearly 5 years of professional working experience in IT Management & Payroll Systems, Software Design & Development, and IT consulting & also interested to learn about new technology which can help me better development in my career. With The Help Of My Potentiality And Professional Experience, You Can Develop Your Organization, Business, Corporation, Or Company."
 
 Skills-
-Database Servers · Software Development · Entity Framework (EF) Core · Entity Framework · Teamwork · Application Programming Interfaces (API) · Back-End Web Development · Model-View-Controller (MVC) · Databases · Front-End Development · Full-Stack Development · MySQL · Web Applications · SQL Database · ASP.NET · Object-Oriented Programming (OOP) · AngularJS · Angular · Node.js · C (Programming Language) · .NET Core · Visual Studio · .NET Framework · ASP.NET MVC · ASP.NET Core · JavaScript · Blazor · SQL
-   
-<br />
+Database Servers · Software Development · Entity Framework (EF) Core · Entity Framework · Teamwork · Application Programming Interfaces (API) · Back-End Web Development · Model-View-Controller (MVC) · Databases · Front-End Development · Full-Stack Development · MySQL · Web Applications · SQL Database · ASP.NET · Object-Oriented Programming (OOP) · AngularJS · Angular · Node.js · C (Programming Language) · .NET Core · Visual Studio · .NET Framework · ASP.NET MVC · ASP.NET Core · JavaScript · Blazor · SQL   
+
 
 ## 📫 Reach Me At 
 
