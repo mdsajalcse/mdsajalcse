@@ -1,6 +1,6 @@
 ![GIF](https://github.com/mdsajalcse/mdsajalcse/blob/main/software%20Engineer.jpg)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=engr-mdsajal.engr-mdsajal"> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mdsajalcse.mdsajalcse"> 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
