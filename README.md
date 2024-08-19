@@ -1,7 +1,7 @@
 ![GIF](https://github.com/mdsajalcse/mdsajalcse/blob/main/Md.%20Sajal.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer!+;Oracle+Apex..;JavaScript+,+WordPress+and+Digital+ Marketing+ Expert&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer!+;Oracle+Apex..;JavaScript+,+WordPress+and+Digital+ Marketing+Expert&center=true&size=30">
   </a>
 </h1>
 
