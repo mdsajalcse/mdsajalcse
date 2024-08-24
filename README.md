@@ -6,14 +6,9 @@
 </h1>
 
 ## ⚡ About Me
-
 I am a dynamic & Versatile IT professional with a comprehensive skill set that encompasses Oracle APEX development, JavaScript programming, WordPress customization, digital marketing strategies, and computer networking with hardware expertise. My comprehensive background allows me to deliver end-to-end solutions that address both technical and strategic needs.
+
 Oracle APEX: I specialize in Oracle Application Express (APEX) to develop robust, data-driven applications that streamline business operations and enhance data management. My expertise includes building scalable solutions that are intuitive and tailored to specific business requirements.
-JavaScript: My strong proficiency in JavaScript enables me to create interactive, user-friendly web applications. By leveraging modern frameworks and libraries, I deliver engaging and responsive interfaces that enhance user experience and functionality.
-WordPress: As a WordPress developer, I design and manage custom websites that align with clients' branding and goals. My skills include theme and plugin customization, site optimization, and SEO, ensuring that websites are both high-performing and impactful.
-Digital Marketing: I employ a strategic approach to digital marketing, focusing on SEO, content marketing, social media management, and analytics. My goal is to develop and execute campaigns that boost online visibility, drive engagement, and achieve measurable business outcomes.
-Computer Networking with Hardware: My knowledge extends to computer networking and hardware, where I design and implement network solutions, manage infrastructure, and troubleshoot technical issues. This expertise ensures reliable and efficient IT operations, supporting overall business functions.
-Combining these areas of expertise, I offer a holistic approach to IT and business solutions, addressing both technological and marketing needs while ensuring seamless integration and optimal performance. My goal is to drive innovation, efficiency, and growth across all facets of technology and digital presence.
 
 Skills-
 Database Servers · Software Development · Entity Framework (EF) Core · Entity Framework · Teamwork · Application Programming Interfaces (API) · Back-End Web Development · Model-View-Controller (MVC) · Databases · Front-End Development · Full-Stack Development · MySQL · Web Applications · SQL Database · ASP.NET · Object-Oriented Programming (OOP) · AngularJS · Angular · Node.js · C (Programming Language) · .NET Core · Visual Studio · .NET Framework · ASP.NET MVC · ASP.NET Core · JavaScript · Blazor · SQL   
