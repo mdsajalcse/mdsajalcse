@@ -10,7 +10,7 @@ I am a dynamic & Versatile IT professional with a comprehensive skill set that e
 
 Skills-
 
-HTML · CSS · BOOTSTRAP . Front-End Development  . JavaScript · SQL . PL/SQL . ORACLE DATABASE . ORACLE APEX
+HTML · CSS · BOOTSTRAP . FRONT-END Development  . JAVASCRIPT · SQL . PL/SQL . ORACLE DATABASE . ORACLE APEX
 
 ## 📫 Reach Me At 
 
