@@ -6,7 +6,7 @@
 </h1>
 
 ## ⚡ About Me
-I am a dynamic & Versatile IT professional with a comprehensive skill set that encompasses Oracle APEX development, JavaScript programming, WordPress customization, digital marketing strategies, and computer networking with hardware expertise. My comprehensive background allows me to deliver end-to-end solutions that address both technical and strategic needs.
+I am a dynamic & Versatile IT professional with a comprehensive skill set that encompasses Front-End Development(HTML, CSS, BOOTSTRAP) ,JavaScript, Oracle APEX development, WordPress customization, digital marketing strategies, and computer networking with hardware expertise. My comprehensive background allows me to deliver end-to-end solutions that address both technical and strategic needs.
 
 Skills-
 
