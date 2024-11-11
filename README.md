@@ -73,7 +73,7 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   16 hrs 38 mins  ███████████████████████▒░   93.22 %
+Csharp & Asp.net   16 hrs 38 mins  ███████████████████████▒░   93.22 %
 JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 React        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
@@ -83,16 +83,6 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/Explore-JavaScript" title="JavaScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=Explore-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/C-Programming-Math-Functions" title="C-Programming-Math-Functions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=C-Programming-Math-Functions&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/C-" title="C++"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=C-&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/C-Sharp" title="Software"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=C-Sharp&theme=react&border_color=61dafb&border_radius=10"></a>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/mdsajalcse?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 
