@@ -1,4 +1,4 @@
-![GIF](https://github.com/mdsajalcse/mdsajalcse/blob/main/Md.%20Sajal.png)
+![GIF](https://github.com/mdsajalcse/mdsajalcse/blob/main/sajal.jpg)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+Sajal....;Software+Engineer...;Oracle+Apex+Developer...;JavaScript+Expert...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
