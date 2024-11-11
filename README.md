@@ -1,12 +1,12 @@
 ![GIF](https://github.com/mdsajalcse/mdsajalcse/blob/main/sajal.jpg)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+Sajal....;Software+Engineer...;Oracle+Apex+Developer...;JavaScript+Expert...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+Sajal....;Software+Engineer...;C#+ASP.NET...;JavaScript+Expert...;System+Network+Administrator...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
   </a>
 </h1>
 
 ## ⚡ About Me
-I am a dynamic & Versatile IT professional with a comprehensive skill set that encompasses Front-End Development(HTML, CSS, BOOTSTRAP) ,JavaScript, Asp.net development, WordPress customization, digital marketing strategies, and e System & Network Administrator. My comprehensive background allows me to deliver end-to-end solutions that address both technical and strategic needs.
+I am a dynamic & Versatile IT professional with a comprehensive skill set that encompasses Front-End Development(HTML, CSS, BOOTSTRAP) ,JavaScript, Asp.net development, WordPress customization, digital marketing strategies, with System & Network Administrator. My comprehensive background allows me to deliver end-to-end solutions that address both technical and strategic needs.
 
 Skills-
 
