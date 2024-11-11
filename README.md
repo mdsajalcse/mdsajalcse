@@ -35,15 +35,11 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-563D7C?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C-Sharp](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c-sharp)
 ![Asp.net](https://img.shields.io/badge/-ASP.NET-00599C?style=flat-square&logo=asp.net)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+
 
  
 ## ⚒ Technologies Tools
@@ -55,7 +51,7 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ![MSSQLSERVER](https://img.shields.io/badge/-MSSQLSERVER-black?style=flat-square&logo=mssqlserver)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Tortoise Git](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=tortoise)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify)
