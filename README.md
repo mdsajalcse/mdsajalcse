@@ -6,11 +6,11 @@
 </h1>
 
 ## ⚡ About Me
-I am a dynamic & Versatile IT professional with a comprehensive skill set that encompasses Front-End Development(HTML, CSS, BOOTSTRAP) ,JavaScript, Oracle APEX development, WordPress customization, digital marketing strategies, and computer networking with hardware expertise. My comprehensive background allows me to deliver end-to-end solutions that address both technical and strategic needs.
+I am a dynamic & Versatile IT professional with a comprehensive skill set that encompasses Front-End Development(HTML, CSS, BOOTSTRAP) ,JavaScript, Asp.net development, WordPress customization, digital marketing strategies, and e System & Network Administrator. My comprehensive background allows me to deliver end-to-end solutions that address both technical and strategic needs.
 
 Skills-
 
-HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · SQL · PL/SQL · ORACLE DATABASE · ORACLE APEX
+HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# · ASP.NET · SYSTEM & NETWORK ADMINISTRATOR
 
 ## 📫 Reach Me At 
 
@@ -84,9 +84,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/Software-Engineering-Roadmap" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=Software-Engineering-Roadmap&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/Railsheba" title="RailSheba"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=RailSheba&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center"><a align="left" href="https://github.com/mdsajalcse/Explore-JavaScript" title="JavaScript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=Explore-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/C-Programming-Math-Functions" title="C-Programming-Math-Functions"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=C-Programming-Math-Functions&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
