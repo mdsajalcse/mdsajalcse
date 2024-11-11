@@ -68,18 +68,6 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=mdsajalcse&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalcse&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-## ⚒ This Week I Spent My Time On
-<!--START_SECTION:waka-->
-
-```txt
-Csharp & Asp.net   16 hrs 38 mins  ███████████████████████▒░   93.22 %
-JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-React        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
-
-<!--END_SECTION:waka-->
 
 
 
