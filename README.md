@@ -51,7 +51,7 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ![MSSQLSERVER](https://img.shields.io/badge/-MSSQLSERVER-black?style=flat-square&logo=mssqlserver)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Tortoise Git](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=tortoise)
+![Tortoise Git](https://img.shields.io/badge/-Tortoise-FCA121?style=flat-square&logo=tortoise)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify)
