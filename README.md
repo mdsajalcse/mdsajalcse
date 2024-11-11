@@ -15,8 +15,8 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ## 📫 Reach Me At 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mdsajalcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsajalcse/)](https://www.linkedin.com/in/mdsajalcse/)
-[![Twitter Badge](https://img.shields.io/badge/-mdsajal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mdsajal_/)](https://twitter.com/mdsajal_/)
-[![Behance Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/md-sajal/)](https://www.behance.net/md-sajal/)
+[![Twitter Badge](https://img.shields.io/badge/-mdsajalcse-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mdsajalcse/)](https://twitter.com/mdsajalcse/)
+[![Behance Badge](https://img.shields.io/badge/mdsajalcse-1877F2?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/mdsajalcse/)](https://www.behance.net/mdsajalcse/)
 [![Instagram Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/md.sajal.cse/)](https://www.instagram.com/md.sajal.cse/)
 [![Facebook Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/md.sajal.cse/)](https://www.facebook.com/md.sajal.cse/)
 [![Pinterest Badge](https://img.shields.io/badge/mdsajal-1877F2?style=flat-square&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/mdsajal_/)](https://www.pinterest.com/mdsajal_/)
