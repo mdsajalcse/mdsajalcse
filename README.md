@@ -35,10 +35,7 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-563D7C?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C-Sharp](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c-sharp)
-![Asp.net](https://img.shields.io/badge/-ASP.NET-00599C?style=flat-square&logo=asp.net)
+!Oracle](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=oracle)
 ![WordPress](https://img.shields.io/badge/-WordPress-00599C?style=flat-square&logo=WordPress)
 ![Digital Marketing](https://img.shields.io/badge/-DigitalMarketing-00599C?style=flat-square&logo=DigitalMarketing)
 
