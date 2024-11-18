@@ -35,7 +35,8 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-563D7C?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![oracle](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=oracle)
+![Oracle](https://img.shields.io/badge/-oracle-black?style=flat-square&logo=oracle)
+![OracleApex](https://img.shields.io/badge/-OrcaleApex-black?style=flat-square&logo=oracleapex)
 ![WordPress](https://img.shields.io/badge/-WordPress-00599C?style=flat-square&logo=WordPress)
 ![Digital Marketing](https://img.shields.io/badge/-DigitalMarketing-00599C?style=flat-square&logo=DigitalMarketing)
 
