@@ -1,7 +1,7 @@
 ![GIF](https://github.com/mdsajalcse/mdsajalcse/blob/main/mdsajalcse.jpg)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+Sajal....;Software+Engineer...;CSharp+ASP.NET...;JavaScript+Expert...;system+Network+Administrator...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+Sajal....;Software+Engineer...;PLSQL+ORACLEAPEX...;JavaScript+Expert...;system+Network+Administrator...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@ I am a dynamic & Versatile IT professional with a comprehensive skill set that e
 
 Skills-
 
-HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# · ASP.NET · SYSTEM & NETWORK ADMINISTRATOR
+HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · ORACLE SQL · PLSQL · ORACLE APEX · SYSTEM & NETWORK ADMINISTRATOR
 
 ## 📫 Reach Me At 
 
@@ -49,7 +49,8 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
 ![Codeblocks](https://img.shields.io/badge/-Codeblocks-00599C?style=flat-square&logo=codeblocks)
 ![Visualstudiocode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat-square&logo=VisualStudioCode)
-![OracleDBMS](https://img.shields.io/badge/-OrcleDbms-black?style=flat-square&logo=oracledbms)
+![OracleDBMS](https://img.shields.io/badge/-OracleSQL-black?style=flat-square&logo=oracledbms)
+![OracleDBMS](https://img.shields.io/badge/-OracleAPEX-black?style=flat-square&logo=oracledbms)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Tortoise Git](https://img.shields.io/badge/-Tortoise-FCA121?style=flat-square&logo=tortoise)
