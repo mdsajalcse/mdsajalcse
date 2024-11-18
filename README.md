@@ -49,7 +49,7 @@ HTML · CSS · BOOTSTRAP · FRONT-END DEVELOPMENT · JAVASCRIPT · MSSQL · C# �
 ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
 ![Codeblocks](https://img.shields.io/badge/-Codeblocks-00599C?style=flat-square&logo=codeblocks)
 ![Visualstudiocode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat-square&logo=VisualStudioCode)
-![MSSQLSERVER](https://img.shields.io/badge/-MSSQLSERVER-black?style=flat-square&logo=mssqlserver)
+![OracleDBMS](https://img.shields.io/badge/-OrcleDbms-black?style=flat-square&logo=oracledbms)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Tortoise Git](https://img.shields.io/badge/-Tortoise-FCA121?style=flat-square&logo=tortoise)
